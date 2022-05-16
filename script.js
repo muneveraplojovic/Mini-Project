@@ -1,5 +1,5 @@
 function pokreniMe(dugme) {
     let message = document.querySelector("#kliknutoDugme")
-    message.innerText="HEEEEYYY BITCHEZZZZ"
+    message.innerText="HEEEEYYY "
     console.log(dugme);
 }
